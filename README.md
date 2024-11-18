@@ -6,7 +6,7 @@ This repository contains scripts to securely back up and restore directories usi
 
 ## Table of Contents 📚
 
-1. [Overview](#overview)
+1. [Overview](overview)
 2. [Prerequisites](#prerequisites)
 3. [Files Included](#files-included)
 4. [Usage](#usage)
