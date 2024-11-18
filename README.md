@@ -19,56 +19,6 @@ This repository contains scripts to securely back up and restore directories usi
 9. [Security Considerations](#security-considerations)
 10. [Notes](#notes)
 
-## Table of Contents 📚
-
-1. [Overview](#overview)
-2. [Prerequisites](#prerequisites)
-3. [Files Included](#files-included)
-4. [Usage](#usage)
-   - [Backup Script](#backup-script)
-   - [Restore Script](#restore-script)
-5. [Scheduling the Backup Script](#scheduling-the-backup-script)
-6. [Library Functions](#library-functions)
-7. [Results](#results)
-8. [Assumptions](#assumptions)
-9. [Security Considerations](#security-considerations)
-10. [Notes](#notes)
-
-## Overview
-...
-
-## Prerequisites
-...
-
-## Files Included
-...
-
-## Usage
-### Backup Script
-...
-
-### Restore Script
-...
-
-## Scheduling the Backup Script
-...
-
-## Library Functions
-...
-
-## Results
-...
-
-## Assumptions
-...
-
-## Security Considerations
-...
-
-## Notes
-...
-
-
 ## Overview 📄
 
 The `backup.sh` and `restore.sh` scripts are designed to securely back up and restore directories, utilizing GPG encryption for backup security. SCP is used for remote transfer of the backup. These scripts can be scheduled with cron for regular backups.
