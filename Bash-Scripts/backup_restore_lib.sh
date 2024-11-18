@@ -9,10 +9,10 @@ export server_key='/home/abu-nemr/task-bash.pem'
 validate_backup_params() {
     if [ $# -ne 4 ]; then
         echo "Usage: $0 source_directory backup_directory encryption_key days_threshold"
-        echo "1- source_directory: Path of the directory to be backed up."
-        echo "2- backup_directory: Path of the directory in the remote server that should store the backup."
-        echo "3- encryption_key: Key that will be used to encrypt the backup directory."
-        echo "4- days_threshold: Number of days (n) to backup changed files during the last n days."
+        echo "1- source_directory: The path of the directory to be backed up."
+        echo "2- backup_directory: The destination directory on the remote server where the backup will be stored."
+        echo "3- encryption_key: The key used to encrypt the backup directory."
+        echo "4- days_threshold: The number of days (n) to consider when backing up files modified within the last n days."
         exit 1    
     fi
 
