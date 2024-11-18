@@ -1,4 +1,6 @@
-# Secure Backup and Restore Scripts
+<div align="center">
+  <h1 style="color: red;"> Secure Backup and Restore Scripts </h1>
+</div>
 
 ## Overview
 
