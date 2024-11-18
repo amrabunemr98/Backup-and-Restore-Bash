@@ -85,11 +85,15 @@ This schedules the script to run at 2:00 AM every day.
 ## Results
 
 Below are screenshots demonstrating the successful execution of the [backup.sh](https://github.com/amrabunemr98/Backup-and-Restore-Bash/blob/main/Bash-Scripts/backup.sh) script:
+
 ![Screenshot from 2024-11-18 01-39-43](https://github.com/user-attachments/assets/286f2a75-3b73-433b-a063-e5ba78547cfe)
+
 ![Screenshot from 2024-11-18 01-40-09](https://github.com/user-attachments/assets/88b788b0-8444-4343-a104-e8ed19c1e665)
 
 Below are screenshots demonstrating the successful execution of the [restore.sh](https://github.com/amrabunemr98/Backup-and-Restore-Bash/blob/main/Bash-Scripts/restore.sh) script:
+
 ![Screenshot from 2024-11-18 01-43-10](https://github.com/user-attachments/assets/113f99fe-9f30-4976-a267-06d3904b59fc)
+
 ![Screenshot from 2024-11-18 01-43-32](https://github.com/user-attachments/assets/aa19be93-e83e-4e3b-9800-88c1bae0ea75)
 
 ## Assumptions
