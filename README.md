@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <h1 style="color: red;"> Secure Backup and Restore Scripts 🔒</h1>
 </div>
@@ -130,6 +129,3 @@ Below are screenshots demonstrating the successful execution of the [restore.sh]
 
 - The scripts handle errors by validating input and ensuring directories exist.
 - Temporary files created during the process are deleted after use.
-```
-
-This format maintains clarity and consistency, similar to the layout of the eCommerce application deployment README you provided, while adapting the content to the backup and restore scripts.
