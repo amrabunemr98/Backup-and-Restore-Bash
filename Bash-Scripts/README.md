@@ -7,7 +7,6 @@ This document offers an overview of the **backup.sh**, **restore.sh**, and **bac
 - 🌐 A remote server (e.g., an AWS EC2 instance).
 - ⚙️ Modify the variables in **backup_restore_lib.sh** to reflect your server details:
   ```bash
-  # Variables for the remote server where backup and restore actions will be performed
   export server_username='ubuntu' 
   export server_ip='54.151.87.144'
   export server_key='/home/abu-nemr/task-bash.pem'
