@@ -39,7 +39,7 @@ The `backup.sh` and `restore.sh` scripts are designed to securely back up and re
 
 ## Usage 📝
 
-### Backup Script ⚒️
+### [Backup Script](https://github.com/amrabunemr98/Backup-and-Restore-Bash/blob/main/Bash-Scripts/backup.sh) ⚒️
 
 #### Command-line Arguments
 
@@ -58,7 +58,7 @@ The `backup.sh` and `restore.sh` scripts are designed to securely back up and re
 ./backup.sh /home/user/documents /remote/backup/path my-encryption-key 7
 ```
 
-### Restore Script 🔄
+### [Restore Script](https://github.com/amrabunemr98/Backup-and-Restore-Bash/blob/main/Bash-Scripts/restore.sh) 🔄
 
 #### Command-line Arguments
 
@@ -92,7 +92,7 @@ Add the line:
 
 This schedules the script to run at 2:00 AM every day.
 
-## Library Functions 🛠️
+## [Library Functions](https://github.com/amrabunemr98/Backup-and-Restore-Bash/blob/main/Bash-Scripts/backup_restore_lib.sh) 🛠️
 
 - **validate_backup_params**: Validates input parameters for `backup.sh`.
 - **backup**: Handles the backup process, including compression and encryption.
